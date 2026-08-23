@@ -19,4 +19,4 @@ This repository contains the MATLAB source code developed as part of academic "T
 2. Place all experimental `.mat` files in the root directory alongside the main script[cite: 8].
 3. Open `Main_Identification.m` in MATLAB.
 4. Run the script section-by-section. The code will automatically evaluate the training fit, validate the identified parameters, and output the final optimal values directly to your workspace[cite: 13, 17].
-5. ![Training Result at 100V](images/V100 V.png)
+5.images/V100 V.png
