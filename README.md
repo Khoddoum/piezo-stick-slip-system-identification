@@ -21,4 +21,4 @@ This repository contains the MATLAB source code developed as part of my "Thesis"
 ## Results
 Below is the training fit result demonstrating the identified model's performance compared to the experimental data at 100V:
 
-![Training Result at 100V](V100 V.png)
+![Training Result at 100V](V100V.png)
